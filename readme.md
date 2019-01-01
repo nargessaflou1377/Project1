@@ -1,3 +1,4 @@
+## My Project
 is Programme that you can compute RunTime(order)of java code that just need you go to single page and connect to internet then enter your code and waite or you can compare two code that just need you enter two code of java and connect to internet and wait .
 
 Start page:
@@ -11,13 +12,13 @@ singel code:
 Compare code
 <img alt='MapBuilder page of the game' style='display:block; margin:auto;' src='http://uupload.ir/files/s0gr_3.png' />
 
-Load page:
+Answer page:
 <img alt='Game page' style='display:block; margin:auto;' src='http://uupload.ir/files/yg0h_4.png' />
 
 ## Installation guide
 First, make sure that JDK 8 or higher is installed on your machine, then clone this repository:
 ```
-$ git clone https://github.com/sina7843/OrderComputing.git
+$ git clone https://github.com/nargessaflou1377/Project1
 
 
 ## How to use
